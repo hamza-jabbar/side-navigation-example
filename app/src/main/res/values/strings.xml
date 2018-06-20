@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SideNavigationDrawer</string>
+    <string name="main_layout">Main Layout</string>
+    <string name="account">My Account</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="navigation_header">Navigation Header</string>
+</resources>
